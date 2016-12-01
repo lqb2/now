@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               now
+tagline:             @lqb2's now page
+url:                 http://lawrencebarrinerii.com
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Lawrence Barriner II
+  url:               https://twitter.com/lqb2
+  email:             lqb@alum.mit.edu
 
 # Custom vars
 version:             2.0.0
