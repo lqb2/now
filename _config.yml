@@ -6,7 +6,7 @@ title:               now
 tagline:             what lawrence is up to
 url:                 http://lawrencebarrinerii.com
 paginate:            1
-baseurl:             ""
+baseurl:             "/now"
 
 # Assets
 #
@@ -27,6 +27,6 @@ github:
   repo:              https://github.com/poole/poole
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
