@@ -3,6 +3,8 @@ layout: page
 title: Travel
 ---
 
+last update: 19 jan 2023
+
 # 2023 trips
 
 jan
