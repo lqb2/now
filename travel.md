@@ -48,13 +48,13 @@ aug
 * 4-6: HOLD men’s grief retreat
 
 sept
-* 15-oct 15: dickinson’s reach fellowship
+* sept 15-oct 15: dickinson’s reach fellowship
 
 oct
 *  
 
 nov
-* thankstaking (tlh or jax FL)
+* 20-27: thankstaking (tlh or jax FL)
 
 dec
 * 14-18: HOLD CHJL reunion (LA) 
