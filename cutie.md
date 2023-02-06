@@ -9,16 +9,12 @@ title: cutie!
 
 # confirmed trips
 
-- n/a
+- 12-17 april: paris
 
 # possible trips together
 
 - jan 31: nyc
 - march 11/12-19/20: visit jenny and grant (helena, MT)
-- april 7-17: paris
-  + ds has 12-17 april off
-  + up to 6 days
-  + want to include at least one overnight to the south/rural (possibly more)
 - may 22-27: the bay (SFO/oakland/santa rosa) for fidel’s wedding
 - may 28-29: lamb roast (stitchdown farm in bethel, VT)
 - july 1-9: 4th of july at the maine house (waterboro, ME)
@@ -27,6 +23,9 @@ title: cutie!
   + up to a week during this time
   + <http://www.insearchofsimplicity.net/dickinsons-reach-residency.html>
   
+
+
+
 
 # david's possible trips
 
