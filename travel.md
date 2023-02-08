@@ -21,7 +21,7 @@ mar
 * March 31-April 2: HOLD trip w/ KER (need to confirm) (philly, PA)
 
 april
-* 7-17: (paris, france)
+* 7-17: ambroise baptism + 34th birthday (paris, france)
 * 17-20: hang w/ emet (berlin, germany)
 * 28-30: nadav bach (the cape, MA)
 
