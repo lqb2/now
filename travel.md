@@ -18,12 +18,12 @@ mar
 * 5-6: ceremony (boston, MA)
 * 11-20: visit jenny and grant (helena, MT)
 * 25-26: retreat: supporting leadership of men’s groups (leyden, MA) 
-* March 31-April 2: HOLD philly trip w/ KER (need to confirm)
+* March 31-April 2: HOLD trip w/ KER (need to confirm) (philly, PA)
 
 april
-* 7-17: paris 
-* 17-20: berlin (w/ emet)
-* 28-30: nadav bach
+* 7-17: (paris, france)
+* 17-20: hang w/ emet (berlin, germany)
+* 28-30: nadav bach (the cape, MA)
 
 may
 
@@ -44,16 +44,16 @@ aug
 * 4-6: men’s grief retreat (backup)
 
 sept
-* sept 15-oct 15: dickinson’s reach fellowship
+* sept 15-oct 15: dickinson’s reach fellowship (machias, ME)
 
 oct
 *  
 
 nov
-* 20-27: thankstaking (tlh or jax FL)
+* 20-27: thankstaking (tlh or jax, FL)
 
 dec
-* 14-18: HOLD CHJL reunion (LA) 
+* 14-18: HOLD CHJL reunion (LA, CA) 
 * 21/22-27: xmas (tlh or jax FL)
 
 ---
