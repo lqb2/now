@@ -11,14 +11,13 @@ jan
 * 26-28/29: retreat center (leyden, MA)
 
 feb
-* 
+* 17-21: time away w/ cutie (western massachusetts)
  
 mar
 * 3-4: ceremony (bethel, VT)
 * 5-6: ceremony (boston, MA)
 * 11-20: visit jenny and grant (helena, MT)
 * 25-26: retreat: supporting leadership of men’s groups (leyden, MA) 
-* March 31-April 2: HOLD trip w/ KER (need to confirm) (philly, PA)
 
 april
 * 7-17: ambroise baptism + 34th birthday (paris, france)
