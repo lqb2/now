@@ -26,7 +26,7 @@ april
 
 may
 
-* (exact dates still in process) 22-27: west coast trip (SF, oakland, santa rosa - cali)
+* 19-29: west coast trip (SF, CA; oakland, CA; santa rosa, CA)
 * 28-29: lamb roast X (bethel, VT)
 
 june
