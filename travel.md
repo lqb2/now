@@ -3,7 +3,7 @@ layout: page
 title: Travel
 ---
 
-last update: 7 feb 2023
+last update: 18 mar 2023
 
 # 2023 trips
 
@@ -16,7 +16,8 @@ feb
 mar
 * 3-4: ceremony (bethel, VT)
 * 5-6: ceremony (boston, MA)
-* 11-20: visit jenny and grant (helena, MT)
+* ~~11-20: visit jenny and grant (helena, MT)~~
+* 18-20: retreat center work weekend (leyden, MA)
 * 25-26: retreat: supporting leadership of men’s groups (leyden, MA) 
 
 april
