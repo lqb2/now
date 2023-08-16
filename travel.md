@@ -3,7 +3,7 @@ layout: page
 title: Travel
 ---
 
-last update: 18 mar 2023
+last update: 16 aug 2023
 
 # 2023 trips
 
@@ -11,11 +11,10 @@ jan
 * 26-28/29: retreat center (leyden, MA)
 
 feb
-* 17-21: time away w/ cutie (western massachusetts)
+* 17-21: time away w/ cutie (colrain, MA)
  
 mar
-* 3-4: ceremony (bethel, VT)
-* 5-6: ceremony (boston, MA)
+* 3-5: ceremony (bethel, VT)
 * ~~11-20: visit jenny and grant (helena, MT)~~
 * 18-20: retreat center work weekend (leyden, MA)
 * 25-26: retreat: supporting leadership of men’s groups (leyden, MA) 
@@ -23,18 +22,18 @@ mar
 april
 * 7-17: ambroise baptism + 34th birthday (paris, france)
 * 17-20: hang w/ emet (berlin, germany)
-* 
 * 28-30: nadav bach (the cape, MA)
 
 may
 
 * 5-7: mikaela's bach weekend (with 1h of bos, MA)
-* 6: birthday hike (dover, MA)
+~~* 6: birthday hike (dover, MA)~~
+* 6: birthday walk (boston, MA)
 * 19-29: west coast trip (SF, CA; oakland, CA; santa rosa, CA)
 * 28-29: lamb roast X (bethel, VT)
 
 june
-* 2-4: HOLD retreat (leyden, MA)
+* 2-4: retreat (leyden, MA)
 * 4-9: retreat (ptown, MA)
 * 10-11: ceremony (boston, MA)
 * 11-17: working remotely (waitsfield, VT)
@@ -47,23 +46,51 @@ july
 
 aug
 * 1: beyoncé concert (foxboro, MA)
+* 16-18: retreat (boston, MA or DC)
 * 20-26: HOLD working remotely (waitsfield, VT)
 
 sept
-* 11-15: prep days for dickinson's reach fellowship (maine)
+* ~~9-11: maybe vacation (monhegan island, ME)~~
+* 11-13: travel and prep days for dickinson's reach fellowship (a few spots in ME)
 * sept 15-oct 15: dickinson’s reach fellowship (machias, ME)
 
 oct
-* 25-27: HOLD retreat (nyc, NY)
+* MAYBE 26-30: james vamboi's birthday (memphis, TN)
 
 nov
-* 1-3: HOLD retreat (nyc, NY)
+* 31 oct - 3 nov: retreat (nyc, NY)
+* 5: gibrán's wedding (??)
 * 8-12: retreat (blue mountain lake, NY)
-* 20-27: thankstaking (tlh or jax, FL)
+* MAYBE 16-22: visit jenny & grant's twins (helena, MT)
+* ~~20-27: thankstaking (tlh or jax, FL)~~
+* 22-25: thankstaking (boston, MA)
 
 dec
+* 1-3: knoll farm retreat (montreál, QC)
 * 14-18: HOLD CHJL reunion (LA, CA) 
-* 21/22-27: xmas (tlh or jax FL)
+* 18(ish)-26(ish): xmas (tlh or jax FL)
 
 ---
+
+confirmed colrain in-town dates:
+
+* oct 16(ish)-26
+* nov 13-16
+* nov 26-30
+
+likely additional colrain in-town dates:
+
+* nov 16-22
+* oct 26-30
+
+
+<!-- 
+colrain dates:
+* oct 16(ish)-26: 10
+* nov 13-22: 9
+* nov 26-30: 5
+19+5=26 
+
+total dates: 44 (16 oct-30nov)
+total dates: 40 (oct 20-nov 30) -->
 

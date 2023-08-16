@@ -26,6 +26,50 @@ title: cutie!
 
 
 
+---
+
+big rocks:
+* 4th july 
+  - tentative plan:
+    + LB goes on 1st
+    + DS arrives on the 2nd by train
+    + LB drives DS to portland airport on thursday morning
+* dad's bday end of july 
+  - july 23
+* dickinson's (first and last days are travel days)
+  - option 1: 26 sept - 1 oct
+  - option 2: 29 sept - 6 oct
+  - **deadline for decision: 1 june**
+* winter holidays
+  - thxtaking
+    + in boston
+  - xmas
+    + 2 weeks in dec in florida
+    + DS to ask jasmine and other fam about doing xmas in florida
+    + LB to ask if jacob will in NC or TLH for xmas. what day is xmas happening? 
+    + LB visit dustin
+    + **deadline: 1 june**
+  - new years
+    + LB will tentatively plan on hanging with DS chosen fam crew at some retreat center
+
+
+
+next scheduling convo:
+* lamb roast 
+* chorus convening june 4-8
+* knoll farm 20th anniversary (and the days before)
+* 
+
+
+smaller rocks:
+* montana
+
+
+
+
+---
+
+
 
 # david's possible trips
 
