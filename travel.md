@@ -75,13 +75,12 @@ dec
 confirmed colrain in-town dates:
 
 * oct 16(ish)-26
-* nov 13-16
+* nov 13-22
 * nov 26-30
 
 likely additional colrain in-town dates:
 
-* nov 16-22
-* oct 26-30
+* oct 26-30 (50/50 i can be in colrain - it's james' birthday party and i'm helping him plan it so it'll be hard to miss if it actually comes together... it may not come together though)
 
 
 <!-- 
