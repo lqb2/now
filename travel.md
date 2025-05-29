@@ -3,7 +3,36 @@ layout: page
 title: Travel
 ---
 
-last update: 16 aug 2023
+last update: 28 may 2025
+
+# 2025
+
+may
+
+* 13-15
+* 19-27
+
+june
+
+* 9-20
+
+
+july
+
+* 2-4: vacation (ME)
+* 8-9: LQB2 & CO work retreat (NYC)
+* 13-19: better selves fellowship
+* 20-30: wedding (france)
+* 30 july - 2 aug: vacation (cape cod, MA)
+
+aug
+
+* 11-15: trilOG retreat MAYBE (waitsfield, VT)
+* 18-24: vacation (oak bluffs, MV)
+
+
+
+<!-- 16 aug 2023
 
 # 2023 trips
 
@@ -80,7 +109,7 @@ confirmed colrain in-town dates:
 
 likely additional colrain in-town dates:
 
-* oct 26-30 (50/50 i can be in colrain - it's james' birthday party and i'm helping him plan it so it'll be hard to miss if it actually comes together... it may not come together though)
+* oct 26-30 (50/50 i can be in colrain - it's james' birthday party and i'm helping him plan it so it'll be hard to miss if it actually comes together... it may not come together though) -->
 
 
 <!-- 
