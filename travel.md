@@ -30,6 +30,10 @@ aug
 * 11-15: trilOG retreat MAYBE (waitsfield, VT)
 * 18-24: vacation (oak bluffs, MV)
 
+sept
+
+* 
+
 
 
 <!-- 16 aug 2023
