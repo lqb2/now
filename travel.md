@@ -9,8 +9,8 @@ last update: 28 may 2025
 
 may
 
-* 13-16: CHI
-* 19-27: NYC + VT
+* 13-16: TMC retreat (CHI)
+* 19-27: rockwood AOL + lamb roast (NYC + VT)
 
 june
 
