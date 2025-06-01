@@ -3,7 +3,7 @@ layout: page
 title: Travel
 ---
 
-last update: 28 may 2025
+last update: 1 jun 2025
 
 # 2025
 
