@@ -9,20 +9,22 @@ last update: 28 may 2025
 
 may
 
-* 13-15
-* 19-27
+* 13-16: CHI
+* 19-27: NYC + VT
 
 june
 
-* 9-20
+* 9-12: MRC retreat (leyden, MA)
+* 15-20/21: better selves advisor week (waitsfield, MA)
+* 27-29: baby shower (NYC)
+* 29 june - 6/7 july: 4th of july (waterboro, ME)
 
 
 july
 
-* 2-4: vacation (ME)
-* 8-9: LQB2 & CO work retreat (NYC)
-* 13-19: better selves fellowship
-* 20-30: wedding (france)
+* 7-9: LQB2 & CO work retreat (NYC)
+* 13-19: better selves fellowship (waitsfield, MA)
+* 20-30: wedding (paris + lyon, france)
 * 30 july - 2 aug: vacation (cape cod, MA)
 
 aug
@@ -32,7 +34,24 @@ aug
 
 sept
 
-* 
+* 19-21: MRC retreat (leyden, MA)
+* 28 sept - 11 oct: sabbatical trip (kenya)
+
+oct
+
+* 26-31: rockwood (CHI)
+
+nov
+
+* 10-14: RSCF convening (NYC)
+* 19-21: rockwood trainer gathering (GA)
+
+dec
+
+* 10-15: praxis retreat (HI)
+* 17-26: holidays (JAX + TLH)
+* 28 dec - 3 jan: personal retreat (TBD)
+
 
 
 
