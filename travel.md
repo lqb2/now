@@ -7,6 +7,8 @@ last update: 1 jun 2025
 
 # 2025
 
+note: any dates listed here mean i will be partially or completed offline. i'm thinking about adding some color coding to indicate which is which but for now, we're living in b&w. 
+
 may
 
 * 13-16: TMC retreat (CHI)
@@ -38,7 +40,7 @@ sept
 * 28 sept - 11 oct: sabbatical trip (kenya)
 
 oct
-
+ 
 * 26-31: rockwood (CHI)
 
 nov
