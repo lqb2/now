@@ -31,6 +31,7 @@ july
 
 aug
 
+* 4-9: better selves fellowship (waitsfield, MA)
 * 11-15: trilOG retreat MAYBE (waitsfield, VT)
 * 18-24: vacation (oak bluffs, MV)
 
