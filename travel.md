@@ -3,7 +3,7 @@ layout: page
 title: Travel
 ---
 
-last update: 5 jun 2025
+last update: 28 oct 2025
 
 # 2025
 
@@ -42,18 +42,28 @@ sept
 
 oct
  
-* 26-31: rockwood (CHI)
+* ~~26-31: rockwood (CHI)~~
+* 9-17: visiting miriam & fam + kenya replacement trip w/ the cutie + rockwood 25th anniversary (new haven CT + NYC)
+* 25-30: rockwood trainer (san diego, CA)
+* 30 nov - 1 dec: visiting sky (LAX)
 
 nov
 
 * 10-14: RSCF convening (NYC)
-* 19-21: rockwood trainer gathering (GA)
+* 18-22: rockwood trainer gathering (GA)
+* 22-23: friendsgiving (PHL)
 
 dec
 
-* 10-15: praxis retreat (HI)
-* 17-26: holidays (JAX + TLH)
-* 28 dec - 3 jan: personal retreat (TBD)
+* 7-16: vacay w/ the cutie + praxis retreat (HI)
+* 19-26: holidays (JAX + TLH)
+* 28-31: personal retreat (TBD)
+* 31-1: NYE celebration (TBD)
+
+jan 2026
+
+* 1-4: new year's celebration (western MA)
+* 4-9: personal retreat part 2 + couple retreat (TBD)
 
 
 
