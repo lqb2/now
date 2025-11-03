@@ -3,7 +3,7 @@ layout: page
 title: Travel
 ---
 
-last update: 28 oct 2025
+last update: 1 nov 2025
 
 # 2025
 
@@ -44,8 +44,8 @@ oct
  
 * ~~26-31: rockwood (CHI)~~
 * 9-17: visiting miriam & fam + kenya replacement trip w/ the cutie + rockwood 25th anniversary (new haven CT + NYC)
-* 25-30: rockwood trainer (san diego, CA)
-* 30 nov - 1 dec: visiting sky (LAX)
+* 25-30: rockwood training (san diego, CA)
+* 30 oct - 1 nov: meeting sky (LAX)
 
 nov
 
