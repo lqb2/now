@@ -3,7 +3,31 @@ layout: page
 title: Travel
 ---
 
-last update: 1 nov 2025
+last update: 24 june 2026
+
+# 2026
+
+jun
+
+* 5-14: ceremony + rockwood (santa fe, NM)
+
+july 
+
+* 29 jun - 5 july: vacation (waterboro, ME)
+* 12-17: better selves fellowship (waitsfield, MA)
+* 18-21: visiting cutie (buckland, MA)
+* 21-25: better selves fellowship (waitsfield, MA)
+* 26 july - 1 aug: better selves fellowship (waitsfield, MA)
+
+aug
+
+* 1-8: better selves fellowship (waitsfield, MA)
+* 8-12: vacation (the cape, MA)
+* 12-15: better selves alumni weekend (waitsfield, MA)
+
+
+
+<!-- last update: 1 nov 2025
 
 # 2025
 
@@ -66,7 +90,7 @@ jan 2026
 * 4-9: personal retreat part 2 + couple retreat (TBD)
 
 
-
+--> 
 
 <!-- 16 aug 2023
 
