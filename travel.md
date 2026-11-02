@@ -3,7 +3,7 @@ layout: page
 title: Travel
 ---
 
-last update: 24 june 2026
+last update: 2 nov 2026
 
 # 2026
 
@@ -24,6 +24,27 @@ aug
 * 1-8: better selves fellowship (waitsfield, MA)
 * 8-12: vacation (the cape, MA)
 * 12-15: better selves alumni weekend (waitsfield, MA)
+
+... 
+
+nov 
+
+* 5-8: meeting adira (LA, CA)
+* 8-10: ex returns from prison (orlando, FL)
+* 12-13: men's ceremony (boston, MA)
+* 14-15: celebrating peter forbes (dixmont, ME)
+* 16-21: RSCF learning community convening (NYC, NY)
+* 24-29: thankstaking (in boston but literally so busy)
+
+dec
+
+* 4-6: TFC training for trainers (essex, MA)
+* 7-8: chanukah and helping DS pack up apartment (northampton & buckland, MA)
+* 10-11: men's ceremony (boston, MA)
+* 14-18: apartment packing
+* 19-26: xmas visit to family (JAX, FL and TLH, FL)
+* 27-28: supporting KF family ritual (waitsfield, VT)
+* 31 - 3 jan: new years gathering (the berkshires, MA)
 
 
 
