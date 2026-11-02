@@ -44,7 +44,7 @@ dec
 * 14-18: apartment packing
 * 19-26: xmas visit to family (JAX, FL and TLH, FL)
 * 27-28: supporting KF family ritual (waitsfield, VT)
-* 31 - 3 jan: new years gathering (the berkshires, MA)
+* 31 - 3 jan: new years gathering (berkshires, MA)
 
 
 
